@@ -1,0 +1,17 @@
+{
+  "creativetab.mm_tab": "Mob Madness",
+
+  "item.mobmadness.blowpipe": "Blowpipe",
+  "item.mobmadness.card": "Card",
+  "item.mobmadness.merchant_spawn_egg": "Merchant Spawn Egg",
+
+  "block.mobmadness.suspicious_bricks": "Suspicious Bricks",
+  "block.mobmadness.cracked_suspicious_bricks": "Cracked Suspicious Bricks",
+  "block.mobmadness.divided_suspicious_bricks": "Divided Suspicious Bricks",
+  "block.mobmadness.chiseled_suspicious_bricks": "Chiseled Suspicious Bricks",
+  "block.mobmadness.cracked_chiseled_suspicious_bricks": "Cracked Chiseled Suspicious Bricks",
+  "block.mobmadness.suspicious_suspicious_bricks": "Suspicious Suspicious Bricks",
+  "block.mobmadness.crack_suspicious_bricks": "Crack Suspicious Bricks",
+  "block.mobmadness.crack_cracked_suspicious_bricks": "Crack Cracked Suspicious Bricks"
+
+}

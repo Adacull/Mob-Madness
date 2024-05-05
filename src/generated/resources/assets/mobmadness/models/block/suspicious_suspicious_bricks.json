@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mobmadness:block/suspicious_suspicious_bricks"
+  }
+}

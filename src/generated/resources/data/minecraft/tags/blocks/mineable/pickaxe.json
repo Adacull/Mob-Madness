@@ -1,0 +1,12 @@
+{
+  "values": [
+    "mobmadness:suspicious_bricks",
+    "mobmadness:chiseled_suspicious_bricks",
+    "mobmadness:cracked_suspicious_bricks",
+    "mobmadness:divided_suspicious_bricks",
+    "mobmadness:cracked_chiseled_suspicious_bricks",
+    "mobmadness:suspicious_suspicious_bricks",
+    "mobmadness:crack_suspicious_bricks",
+    "mobmadness:crack_cracked_suspicious_bricks"
+  ]
+}

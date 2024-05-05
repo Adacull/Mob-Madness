@@ -1,0 +1,39 @@
+{
+  "criteria": {
+    "has_blowpipe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "mobmadness:blowpipe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "background": "mobmadness:textures/item/blowpipe.png",
+    "description": {
+      "text": "Pshwooo!"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "mobmadness:blowpipe",
+      "nbt": "{Damage:0}"
+    },
+    "show_toast": true,
+    "title": {
+      "text": "Mob Madness"
+    }
+  },
+  "requirements": [
+    [
+      "has_blowpipe"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

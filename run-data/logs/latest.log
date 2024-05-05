@@ -1,0 +1,29 @@
+[05May2024 10:20:21.865] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgedatauserdev, --assetIndex, 5, --assetsDir, C:\Users\aaron\.gradle\caches\forge_gradle\assets, --gameDir, ., --fml.forgeVersion, 47.2.18, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --mod, mobmadness, --all, --output, C:\Users\aaron\OneDrive\Documents\Mods\My mods\Mob Madness\src\generated\resources, --existing, C:\Users\aaron\OneDrive\Documents\Mods\My mods\Mob Madness\src\main\resources]
+[05May2024 10:20:21.869] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.7 by Eclipse Adoptium; OS Windows 11 arch amd64 version 10.0
+[05May2024 10:20:21.976] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgedatauserdev
+[05May2024 10:20:22.023] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/aaron/.gradle/caches/modules-2/files-2.1/org.spongepowered/mixin/0.8.5/9d1c0c3a304ae6697ecd477218fa61b850bf57fc/mixin-0.8.5.jar%23128!/ Service=ModLauncher Env=CLIENT
+[05May2024 10:20:22.263] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aaron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\javafmllanguage\1.20.1-47.2.18\f100914f5a581eb8941f1d8f5551e673fba19da0\javafmllanguage-1.20.1-47.2.18.jar is missing mods.toml file
+[05May2024 10:20:22.265] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aaron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\lowcodelanguage\1.20.1-47.2.18\f72e36e7092c9230b8b7af439a17f162bfc6dcdb\lowcodelanguage-1.20.1-47.2.18.jar is missing mods.toml file
+[05May2024 10:20:22.266] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aaron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\mclanguage\1.20.1-47.2.18\2b0ad44d9f354d0b5886254114c0ce6e8d3a091b\mclanguage-1.20.1-47.2.18.jar is missing mods.toml file
+[05May2024 10:20:22.269] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\aaron\.gradle\caches\modules-2\files-2.1\net.minecraftforge\fmlcore\1.20.1-47.2.18\a202606f3e61e1159f479243c8d12809ba7325d4\fmlcore-1.20.1-47.2.18.jar is missing mods.toml file
+[05May2024 10:20:22.329] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[05May2024 10:20:23.445] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgedatauserdev' with arguments [--gameDir, ., --assetsDir, C:\Users\aaron\.gradle\caches\forge_gradle\assets, --assetIndex, 5, --mod, mobmadness, --all, --output, C:\Users\aaron\OneDrive\Documents\Mods\My mods\Mob Madness\src\generated\resources, --existing, C:\Users\aaron\OneDrive\Documents\Mods\My mods\Mob Madness\src\main\resources]
+[05May2024 10:20:23.935] [main/INFO] [net.minecraftforge.data.loading.DatagenModLoader/]: Initializing Data Gatherer for mods [mobmadness]
+[05May2024 10:20:26.957] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.18, for MC 1.20.1 with MCP 20230612.114412
+[05May2024 10:20:26.959] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.18 Initialized
+[05May2024 10:20:27.310] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/aaron/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.18_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.18_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[05May2024 10:20:27.310] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/aaron/.gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.20.1-47.2.18_mapped_parchment_2023.09.03-1.20.1/forge-1.20.1-47.2.18_mapped_parchment_2023.09.03-1.20.1-recomp.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[05May2024 10:20:27.567] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Recipes
+[05May2024 10:20:27.592] [main/INFO] [net.minecraft.data.DataGenerator/]: Recipes finished after 24 ms
+[05May2024 10:20:27.592] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Loot Tables
+[05May2024 10:20:27.610] [main/INFO] [net.minecraft.data.DataGenerator/]: Loot Tables finished after 17 ms
+[05May2024 10:20:27.610] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block Tags
+[05May2024 10:20:27.623] [main/INFO] [net.minecraft.data.DataGenerator/]: Block Tags finished after 12 ms
+[05May2024 10:20:27.623] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Item Models: mobmadness
+[05May2024 10:20:27.627] [main/INFO] [net.minecraft.data.DataGenerator/]: Item Models: mobmadness finished after 4 ms
+[05May2024 10:20:27.627] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Block States: mobmadness
+[05May2024 10:20:27.723] [main/INFO] [net.minecraft.data.DataGenerator/]: Block States: mobmadness finished after 95 ms
+[05May2024 10:20:27.724] [main/INFO] [net.minecraft.data.DataGenerator/]: Starting provider: Advancements
+[05May2024 10:20:27.733] [main/INFO] [net.minecraft.data.DataGenerator/]: Advancements finished after 8 ms
+[05May2024 10:20:27.733] [main/INFO] [net.minecraft.data.DataGenerator/]: All providers took: 165 ms
+[05May2024 10:20:27.737] [main/INFO] [net.minecraft.data.HashCache/]: Caching: total files: 38, old count: 38, new count: 39, removed stale: 0, written: 0

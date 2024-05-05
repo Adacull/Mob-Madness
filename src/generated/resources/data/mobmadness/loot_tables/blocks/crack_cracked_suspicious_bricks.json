@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mobmadness:crack_cracked_suspicious_bricks"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mobmadness:blocks/crack_cracked_suspicious_bricks"
+}

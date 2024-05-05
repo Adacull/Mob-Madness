@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bamboo"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "pattern": [
+    " S ",
+    " B ",
+    "   "
+  ],
+  "result": {
+    "item": "mobmadness:blowpipe"
+  },
+  "show_notification": true
+}

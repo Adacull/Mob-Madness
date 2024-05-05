@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mobmadness:block/cracked_chiseled_suspicious_bricks"
+  }
+}

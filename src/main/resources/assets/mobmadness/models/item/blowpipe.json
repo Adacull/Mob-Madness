@@ -1,0 +1,18 @@
+{
+  "parent": "minecraft:item/handheld",
+  "loader": "forge:separate_transforms",
+  "base": {
+    "parent": "mobmadness:item/blowpipe_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "mobmadness:item/blowpipe_2d"
+    },
+    "ground": {
+      "parent": "mobmadness:item/blowpipe_2d"
+    },
+    "fixed": {
+      "parent": "mobmadness:item/blowpipe_2d"
+    }
+  }
+}
